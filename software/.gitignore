@@ -1,0 +1,14 @@
+## This is to ignore the executables on linux (no extension)
+# ignore everything
+*
+
+# unignore things with extensions
+!*.*
+
+# unignore directories
+!*/
+
+## Everything else
+*.o
+*.a
+Makefile
