@@ -1,0 +1,3 @@
+[submodule "MIVCOTS_SOFTWARE"]
+	path = MIVCOTS_SOFTWARE
+	url = https://github.com/pdxfrog/MIVCOTS_SOFTWARE.git
